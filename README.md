@@ -1,11 +1,11 @@
-# Password Manager
-[![Platform](https://img.shields.io/badge/platform-Windows-black.svg)](#platform)  
-[![Built With](https://img.shields.io/badge/built%20with-C%23-blue.svg)](https://docs.microsoft.com/dotnet/csharp/)  
-[![Control Method](https://img.shields.io/badge/control-console-lightgrey.svg)](#control-method)  
-[![GitHub](https://img.shields.io/badge/github-repo-blue.svg)](https://github.com/yourusername/password-manager)  
-[![Stars](https://img.shields.io/github/stars/yourusername/password-manager?style=social)](https://github.com/yourusername/password-manager/stargazers)  
+<div align="center">
+  
+# **Password Manager**
 
-A simple and secure password manager built in **C#**, using **AES encryption** to safely store passwords.
+  
+[![Platform](https://img.shields.io/badge/platform-Windows-black.svg)](#platform)  [![Built With](https://img.shields.io/badge/built%20with-C%23-blue.svg)](https://docs.microsoft.com/dotnet/csharp/)   [![Stars](https://img.shields.io/github/stars/farnaztr/password-manager?style=social)](https://github.com/yourusername/password-manager/stargazers)  
+
+</div>
 
 ---
 
