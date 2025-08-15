@@ -17,9 +17,9 @@ A simple and secure password manager built in **C#**, using **AES encryption** t
 
 ## Contributors
 
-Farnaz - [[GitHub ID here](https://github.com/Farnaztr)]
-
-Bahar - [GitHub ID here]
+- [[Farnaz](https://github.com/Farnaztr)]
+- [[](https://github.com/TankeBiPelak)]
+- [[Farnaz]((https://github.com/BxharAhmadi))]
 
 
 ## Installation & Run
