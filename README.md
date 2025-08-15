@@ -1,6 +1,6 @@
 <div align="center">
   
-# **Password Manager**
+# **Password Manager**🔒
 [![Platform](https://img.shields.io/badge/platform-Windows-black.svg)](#platform)  [![Built With](https://img.shields.io/badge/built%20with-C%23-blue.svg)](https://docs.microsoft.com/dotnet/csharp/)    <img src="https://img.shields.io/github/stars/farnaztr/Password_Manager?style=social" />
 
 </div>
