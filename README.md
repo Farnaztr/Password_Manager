@@ -45,6 +45,7 @@ A simple and secure password manager built in **C#**, using **AES encryption** t
 - **Generate random password:** choose `5`  
 - **Exit program:** choose `0`  
 
+
 **Note:**  
 - If no vault exists, the program will create it automatically.  
 - Master Password is used for encrypting/decrypting data, so do not forget it.  
