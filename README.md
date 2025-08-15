@@ -21,6 +21,7 @@ A simple and secure password manager built in **C#**, using **AES encryption** t
 - [[TankeBiPelak](https://github.com/TankeBiPelak)]
 - [[Bahar](https://github.com/BxharAhmadi)]
 
+--- 
 
 ## Installation & Run
 
